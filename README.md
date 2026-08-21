@@ -16,7 +16,7 @@ operations. A closed commercial product; its architecture is not published.
   aggregation with bounded queues and backpressure
 
 **Background** — thirteen years operating carrier-grade telecom systems. Currently accountable
-for production infrastructure serving 90 million subscribers at 99.9% availability, leading 45
+for production infrastructure serving 100 million subscribers at 99.9% availability, leading 45
 engineers. Previously real-time charging and convergent billing at Huawei and Tecnotree.
 
 **Open to** senior backend and distributed-systems roles in the EU. Relocating from Tehran;
